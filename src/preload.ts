@@ -1,6 +1,5 @@
 import 'phaser';
 
-
 const CDN = 'https://storage.360buyimg.com/web-static/hexigua'
 
 export default class Preload extends Phaser.Scene {
