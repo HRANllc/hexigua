@@ -60,6 +60,5 @@ export default {
         uglify({
             mangle: false
         })
-
     ]
 };
