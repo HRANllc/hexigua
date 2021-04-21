@@ -18,4 +18,3 @@
 After cloning the repo, run `npm install` from your project directory. Then, you can start the local development
 server by running `npm run watch`. The first time you run this you should see the following demo run:
 
-
