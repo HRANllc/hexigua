@@ -306,5 +306,4 @@ const config = {
     },
     scene: [Preload, Demo]
 };
-
 const game = new Phaser.Game(config);
