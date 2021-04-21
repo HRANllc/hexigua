@@ -256,4 +256,4 @@ gameModal = function (game:any) {
 };
 
 
-export default gameModal
+export default gameModal 
