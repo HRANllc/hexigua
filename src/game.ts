@@ -8,7 +8,6 @@ const Ratio = window.devicePixelRatio
 const endLineY = 40 * Ratio
 
 
-
 export default class Demo extends Phaser.Scene {
 
     private enableAdd: boolean = true
@@ -282,7 +281,6 @@ export default class Demo extends Phaser.Scene {
 
     }
 }
-
 
 const config = {
     type: Phaser.AUTO,
