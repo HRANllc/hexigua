@@ -255,5 +255,4 @@ gameModal = function (game:any) {
     };
 };
 
-
 export default gameModal 
